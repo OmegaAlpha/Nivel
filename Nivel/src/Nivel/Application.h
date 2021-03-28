@@ -18,4 +18,3 @@ namespace Nivel
 	Application* CreateApplication();
 }
 
-
